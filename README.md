@@ -43,6 +43,11 @@ The system implemented a sophisticated mindshare algorithm that:
 - **Mobile-First Design**: Optimized for Farcaster's mobile-centric user base
 - **Real-Time Updates**: Provided live feedback on community engagement and rewards
 
+### Use of Zora Coins and coin sdk
+
+- Coincast frontend contains the main logic of how creators can delegate the revenue of their zora coins. You can look atHooks folder and dashboard code for reference.
+- Coin cast Backend contains the logic of reward collection and delegation of the reward to the users.
+
 ## Impact
 
 The project successfully bridged the gap between social influence and economic rewards in the Web3 creator economy. Creators could now directly compensate their most engaged community members, while supporters had tangible incentives to actively promote content they believed in. This created a sustainable ecosystem where social engagement translated into real financial value for all participants.
