@@ -6,7 +6,7 @@ Zora creators who minted ERC20 tokens earned LP fees from trading activity, but 
 
 ## Solution
 
-We built a Farcaster miniapp that enabled Zora creators to delegate a portion of their LP fees to their top 25 Farcaster mindshare contributors. The system established a direct link between social media engagement and financial rewards, creating an incentive structure that aligned creator success with community participation.
+We built coin Cast that enabled Zora creators to delegate a portion of their LP fees to their top 25 Farcaster mindshare contributors. The system established a direct link between social media engagement and financial rewards, creating an incentive structure that aligned creator success with community participation.
 
 ## How It Worked
 
